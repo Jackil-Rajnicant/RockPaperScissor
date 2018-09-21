@@ -23,6 +23,7 @@ public class Player {
         return options.get(userPickNumber);
     }
 
+    //number to indicate which move the chose
     public void play(int i) {
         if(i > 2) throw new ArrayIndexOutOfBoundsException(OUTOFINDEXERROR);
         else userPickNumber = i ;
