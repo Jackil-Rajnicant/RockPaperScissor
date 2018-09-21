@@ -167,10 +167,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-144" />
+    <option name="x" value="784" />
     <option name="y" value="-1057" />
-    <option name="width" value="1346" />
-    <option name="height" value="923" />
+    <option name="width" value="967" />
+    <option name="height" value="850" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -249,7 +249,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PlayerTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="RockPaperScissor" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PlayerTest" />
@@ -261,11 +261,6 @@
       <item itemvalue="JUnit.GameTest" />
       <item itemvalue="JUnit.PlayerTest" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.PlayerTest" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
