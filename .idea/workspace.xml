@@ -169,8 +169,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-144" />
     <option name="y" value="-1057" />
-    <option name="width" value="1346" />
-    <option name="height" value="923" />
+    <option name="width" value="920" />
+    <option name="height" value="852" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -218,7 +218,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537543572491" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537543657500" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
