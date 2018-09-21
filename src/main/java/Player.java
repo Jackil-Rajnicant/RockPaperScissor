@@ -8,14 +8,17 @@ public class Player {
     private String name = "";
     private String OUTOFINDEXERROR = "Invalid Option";
 
+    //constructor
     public Player(String name){
         this.name = name;
     }
 
+    //getter for name
     public String getName(){
         return name;
     }
 
+    //returns the move
     public String getOption(){
         return options.get(userPickNumber);
     }
